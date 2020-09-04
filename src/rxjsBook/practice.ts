@@ -6,3 +6,17 @@ export const arr = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 console.log(arr.filter(isEven).map(square).reduce(add));
 //-> 220
 console.log(arr);
+
+
+
+// 
+//Rx.Observable.of(42).subscribe(console.log); //-> 42
+
+// 
+/*Stream([1, 2, 3, 4, 5, 6, 7, 8, 9, 10])
+.filter(isEven)
+.map(square)
+.reduce(add)
+.subscribe(console.log); //-> */
+
+// 
