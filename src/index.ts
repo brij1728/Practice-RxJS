@@ -3,8 +3,9 @@ import "./index.css";
 import "./rxjsBook/practice";
 import "./rxjsBook/bigpicture"
 
-import "./scottAllenCourse/observables"
-import "./scottAllenCourse/events"
+// import "./scottAllenCourse/observables"
+// import "./scottAllenCourse/events"
+import "./scottAllenCourse/xmlHttpRequest"
 
 
 export class C {
